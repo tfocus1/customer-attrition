@@ -1,5 +1,11 @@
 # customer-attrition
 
+- [objective](#objective)
+- [question](#question)
+
+
+
+
 ![image](images/Data%20analyst.png)
 ![image](images/1500x500.jpg)
 
@@ -24,3 +30,5 @@ my name is focus
 | power bi | sql |
 
 
+# objective
+# question
