@@ -32,3 +32,10 @@ my name is focus
 
 # objective
 # question
+
+```sql
+SELECT *
+FROM
+
+
+```
