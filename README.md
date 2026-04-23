@@ -18,3 +18,9 @@ my name is focus
 
 **focus5**
 
+| tools | purpose |
+| --- | --- |
+| excel | for data cleaning |
+| power bi | sql |
+
+
