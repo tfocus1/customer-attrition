@@ -1,6 +1,6 @@
 # customer-attrition
 
-
+![image](images/Data%20analyst.png)
 
 
 
